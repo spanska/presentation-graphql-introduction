@@ -1,7 +1,7 @@
 {
   "name": "presentation-graphql-introduction",
   "version": "0.0.0",
-  "description": "Introduction to GraphQL",
+  "description": "GraphQL Introduction",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
