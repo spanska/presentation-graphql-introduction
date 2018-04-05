@@ -1,0 +1,14 @@
+{
+  "name": "presentation-graphql-introduction",
+  "version": "0.0.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "author": "Jean-Baptiste Martin",
+  "license": "MIT"
+}
