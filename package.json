@@ -1,7 +1,7 @@
 {
   "name": "presentation-graphql-introduction",
   "version": "0.0.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Introduction to GraphQL",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
